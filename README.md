@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 soy Gabriel Paladino</h1>
 
 # 💫 Sobre mi:
-📚Estudiante de Ingeniería en Computación<br>🎓Técnico en electrónica<br>🌱Actualmente me estoy especializando en desarrollo de APIs rest con Java + Spring Boot y microservicios con Spring Cloud<br>⚡Fun fact: también me gusta realizar proyectos de sistemas embebidos 
+📚Estudiante de Ingeniería en Computación<br>🎓Técnico en electrónica<br>🌱Actualmente me estoy especializando en desarrollo backend con Java + Spring<br>⚡Fun fact: también me gusta realizar proyectos de sistemas embebidos 
 
 ## Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-paladino-575b96290)
